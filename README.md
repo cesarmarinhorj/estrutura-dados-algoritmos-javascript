@@ -9,3 +9,5 @@ Exercícios do livro Estrutura de Dados e Algoritmos em Javascript
 . Pilha e Fila
 
 . Listas Ligadas
+
+. Conjuntos
